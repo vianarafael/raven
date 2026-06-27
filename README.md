@@ -21,3 +21,5 @@ result = client.chat_json(
     schema=ReceiptSchema,
 )
 ```
+
+
